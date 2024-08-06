@@ -1,2 +1,3 @@
 # Wordle
-An unofficial clone of the game "Wordle".
+This is an unofficial clone of the game "Wordle". 
+
